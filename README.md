@@ -1,11 +1,8 @@
 ### Hi there 👋
 
 - I'm a mechanical engineer
-- 🌱 I’m currently studying data science
+- 🌱 I’m pursuing a Master's degree in Data Science
 - ⚡ Fun fact: I've made a game with Unity
-
-
-  ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/87708237/127654584-d7e004a9-5ca5-473a-bd06-1b3137a11444.gif)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
