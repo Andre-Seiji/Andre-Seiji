@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- I'm a mechanical engineer
-- 🌱 I’m pursuing a Master's degree in Data Science
+- I'm a data scientist
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
